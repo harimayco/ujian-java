@@ -9,7 +9,7 @@ package ujjian.rendy;
 import java.io.*;
 /**
  *
- * @author odhier
+ * @author Rendy Harimayco
  */
  
  
